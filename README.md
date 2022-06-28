@@ -4,7 +4,7 @@
     <p>Labelled datasource: https://jmcauley.ucsd.edu/data/amazon/</p>
     <br>
     <div>
-        <img src="planning.png" height=600px />
+        <img src="planning.png"/>
     </div>
 </body>
 
