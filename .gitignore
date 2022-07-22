@@ -1,3 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# Others
 .ipynb_checkpoints
 env
 planning-raw.txt
