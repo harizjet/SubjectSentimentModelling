@@ -1,2 +1,6 @@
 Amazon_GroceryandGourmetFood.json filter=lfs diff=lfs merge=lfs -text
 Amazon_Electronics.json filter=lfs diff=lfs merge=lfs -text
+AmazonMeta_GroceryandGourmetFood.json filter=lfs diff=lfs merge=lfs -text
+AmazonMeta_Electronics.json filter=lfs diff=lfs merge=lfs -text
+data/AmazonMeta_Electronics.json filter=lfs diff=lfs merge=lfs -text
+data/AmazonMeta_GroceryandGourmetFood.json filter=lfs diff=lfs merge=lfs -text
