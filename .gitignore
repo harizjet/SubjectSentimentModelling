@@ -5,3 +5,6 @@ __pycache__/
 .ipynb_checkpoints
 env
 planning-raw.txt
+data/*.csv
+data/*.json
+
